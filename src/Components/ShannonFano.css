@@ -1,0 +1,82 @@
+.shannon-fano-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #282c34;
+    color: #fff;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.input-field {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.input-text {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #fff;
+    color: #282c34;
+    height: 20px;
+    border-radius: 3px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.btn-encode,
+.btn-decode {
+    padding: 0px 20px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 16px;
+    background-color: #ED2B2A;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+}
+
+.btn-encode:hover,
+.btn-decode:hover {
+    background-color: #19A7CE;
+}
+
+.output-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.output-container label {
+    margin-bottom: 5px;
+}
+
+.output {
+    height: 40px;
+    width: 300px;
+    background-color: #fff;
+    color: #282c34;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+    border-radius: 3px;
+}
