@@ -4,6 +4,8 @@ The Shannon-Fano algorithm is a technique used for data compression, specificall
 ## UI
 
 ![Screenshot (2058)](https://github.com/pinocchio-life-like/ShannonFano/assets/103815611/b8555448-c448-42f5-8177-ffb3706ec43b)
+
+
 ![Screenshot (2057)](https://github.com/pinocchio-life-like/ShannonFano/assets/103815611/149eb9a9-aee3-4c22-b9b3-f3e08c0730b8)
 
 
